@@ -1,0 +1,21 @@
+tweets.json.0
+The memory used by the object storing user counts is: 589920  bytes
+The memory used by the object storing hashtag counts is: 73816  bytes
+
+
+
+tweets.json.8
+The memory used by the object storing user counts is: 589920  bytes
+The memory used by the object storing hashtag counts is: 73816  bytes
+
+
+
+tweets.json.11
+The memory used by the object storing user counts is: 589920  bytes
+The memory used by the object storing hashtag counts is: 73816  bytes
+
+
+
+tweets.json.13
+The memory used by the object storing user counts is: 589920  bytes
+The memory used by the object storing hashtag counts is: 73816  bytes

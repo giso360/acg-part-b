@@ -1,0 +1,7 @@
+matplotlib
+joblib==0.17.0
+numpy==1.19.4
+pyprobables==0.3.2
+scikit-learn==0.23.2
+scipy==1.5.4
+threadpoolctl==2.1.0
